@@ -3,12 +3,15 @@
 #a list has order
 
 
-friends = ["Bob", "Marie", "Sue"]
-friends.append("Roy")
-friends.append("Gill")
+friends = ["Bob","Marie","Sue","Ann","Kim"]
+#print(friends[0])
 
+#friends.append("Roy")
+#friends.append("Gill")
 #friends.remove("Bob")
-print(friends)
 
 
-
+print(friends[1])
+print(friends[2])
+print(friends[3])
+print(friends[4])
