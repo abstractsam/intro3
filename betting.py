@@ -1,8 +1,8 @@
 #create a simple reward system
-#use any number 1-5
+#use any number  between 1-5
 #they are rewarded
 
-bettingnumber =  int(input("Enter any number between 1-5")
+bettingnumber =  int(input("Enter any number between 1-5"))
 if  bettingnumber == 1:
     print(" You have won a herd of cows")
 elif bettingnumber == 2:
