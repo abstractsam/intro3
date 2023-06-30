@@ -3,7 +3,7 @@
 #a list has order
 
 
-friends = ["Bob","Marie","Sue","Ann","Kim"]
+friends = ["Bob","Marie","Sue","Ann","Kim","Jane","Rob"]
 #print(friends[0])
 
 #friends.append("Roy")
@@ -15,3 +15,6 @@ print(friends[1])
 print(friends[2])
 print(friends[3])
 print(friends[4])
+
+#print(friends[5])
+#print(friends[6])
