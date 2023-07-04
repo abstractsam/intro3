@@ -9,10 +9,3 @@ def  multtwonumbers(number1, number2):
 
 
 
-
-
-
-
-
-
-
