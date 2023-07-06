@@ -4,3 +4,7 @@ class ParentClass:
     def addnums(self,x,y):
         result = x+y
         print(result)
+
+    def multnums(self,x,y):
+        result = x*y
+        print(result)
