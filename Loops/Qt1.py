@@ -7,7 +7,8 @@ my_dict = {
     "pineapple": 4.99
 }
 
-
+for fruits,price in my_dict.items():
+    print(f"{fruits}:{price}")
 
 
 
