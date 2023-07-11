@@ -1,6 +1,6 @@
-from database import Student
+from database import User
 
-users = Student.select()
+users = User.select()
 #Use a forloop to display
 
 for student in users:
