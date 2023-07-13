@@ -9,7 +9,3 @@ for user in users:
 
 
 
-
-
-
-

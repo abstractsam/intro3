@@ -15,9 +15,3 @@ class User(Model):
         database = db
 User.create_table(fail_silently=True)
 
-
-
-
-
-
-

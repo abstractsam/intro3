@@ -1,7 +1,7 @@
-from database import User
+from studentreg_table import Student
 
-users = User.select()
+students = Student.select()
 #Use a forloop to display
 
-for student in users:
+for student in students:
     print(student.name,student.age,student.gender,student.studentcode,student.phonenumber)
